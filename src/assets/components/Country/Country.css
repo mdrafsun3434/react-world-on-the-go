@@ -5,5 +5,16 @@
     border-radius: 10px;
     
 }
+.btn{
+    padding: 8px 10px;
+    background-color: rgb(10, 10, 10);
+    border-radius: 5px;
+    cursor:pointer;
+    font-weight: 700;
+}
 
 
+
+.country-visited{
+    background-color: aquamarine;
+}
